@@ -1,0 +1,5 @@
+build/
+*.pyc
+*.py~
+__test__.py
+
